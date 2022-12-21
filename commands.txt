@@ -1,0 +1,17 @@
+mkdir
+cd
+ssh-keygen -t rsa
+cat key1.pub
+git init
+git clone
+cd_(file name)
+git status
+cat hello.txt
+notepad hello.txt
+ls
+cat hello.txt
+git status
+git add hello.txt
+git config —global (email )
+git commit -m "v1.3"
+git push
