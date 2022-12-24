@@ -1,0 +1,2 @@
+Software Project Management
+write all the commands and execute in git bash and take screenshots of it make a document on it
